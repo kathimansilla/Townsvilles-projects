@@ -8,6 +8,6 @@
 - VSC 
 - GitHub
 
-## 👩🏻‍💻 Student: **Kathi Mansilla** @kathimansilla 
+## 👩🏻‍💻 TeamWork 
 
 © Adalab 2023 | Trótula Promotion
